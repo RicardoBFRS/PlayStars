@@ -1,0 +1,10 @@
+
+scriptfiles/*
+server_log.txt
+server.cfg
+samp-server.exe
+samp-npc.exe
+samp-license.txt
+samp.ban
+crashinfo.txt
+*.amx
